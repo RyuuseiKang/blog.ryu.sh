@@ -1,18 +1,20 @@
 ---
-title: Colophon
+title: 紹介
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: いろいろやってます。
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+いろいろやってます。
 
-If you have a question about him or else, just send a letter to him.
+例えば、React Native でアプリケーションを作ったり Django でサーバーを作ったり、その他のことです。
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+여러가지를 합니다.
 
-**may u needs ✨**
+예를 들어, React Native로 앱을 만들거나 Django로 서버를 만들거나, 그 이외의 것들입니다.
 
-- {{ site.author.email }}
+**連絡はこちらで ✨**
+
+- [{{ site.author.email }}](mailto:{{ site.author.email }})
 - github.com/{{ site.author.github }}

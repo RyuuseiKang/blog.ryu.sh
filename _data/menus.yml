@@ -1,16 +1,15 @@
-- title: home
+- title: ホーム
   url: /
   external: false
 
-- title: archive
+- title: ポスト
   url: /archive/
   external: false
 
-- title: about
+- title: 紹介
   url: /about/
   external: false # set true if you using external link, see below
 
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+- title: GITHUB
+  url: https://github.com/ryuuseikang
+  external: true
